@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1ezp&show_icons=true&locale=en&layout=compact" alt="1ezp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1ezp&" alt="1ezp" /></p>
