@@ -28,6 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  <img src="https://camo.githubusercontent.com/ea6a727ac7e5d349ef7551a15d10d0bbddce509a1ddf61164d75bc76d5f739fb/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f6c6f676f70656469612f696d616765732f612f61372f56657263656c5f66617669636f6e2e7376672f7265766973696f6e2f6c61746573743f63623d3230323231303236313535383231" alt="vercel" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=256&id=PndQWK6M1Hjo" alt="bootstrap" width="40" height="40"/>
