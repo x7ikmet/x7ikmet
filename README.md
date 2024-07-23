@@ -19,7 +19,10 @@
 <a href="https://stackoverflow.com/users/13543783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13543783" height="30" width="40" /></a>
 <a href="https://instagram.com/1ezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1ezp"  width="40" /></a>
 <a href="https://t.me/x7ikmet" target="blank"><img align="center" src="https://img.icons8.com/?id=oWiuH0jFiU0R&format=png" alt="x7ikmet" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/hikmet-karkour" target="blank"><img align="center" src="https://img.icons8.com/?id=xuvGCOXi8Wyg&format=png" alt="Hikmet" height="50" width="50" /></a>
+
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
