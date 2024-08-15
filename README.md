@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Hikmet</h1>
-<h3 align="center">Also known as Talon</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1ezp&label=Profile%20views&color=0e75b6&style=flat" alt="1ezp" /> </p>
