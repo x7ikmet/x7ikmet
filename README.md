@@ -9,7 +9,7 @@
 
 - 🏫 I’m currently Studing **Software Engineering**
 
-- 💻 I’m currently learning **JS React**
+- 💻 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Python**
 
