@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1ezp&label=Profile%20views&color=0e75b6&style=flat" alt="1ezp" /> </p>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d35065bba4dee546ecdd6fe59d78d6c3a4f188b17383e1ca78f0ec1f12b629d2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966">
+
 
 - 🏫 Studing **Software Engineering**
 
