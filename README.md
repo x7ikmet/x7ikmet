@@ -9,9 +9,6 @@
 
 - 🏫 Studing **Software Engineering**
 
-- 💻 Learning **Next JS**
-
-- 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
